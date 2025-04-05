@@ -39,7 +39,7 @@ python red_blue_nim_gui.py
 
 ---
 
-🕹️ Gameplay Instructions
+## 🕹️ Gameplay Instructions
 Choose how many marbles to remove (1 or 2).
 Select the marble color (red or blue).
 Click Make Move.
