@@ -27,15 +27,13 @@ You start with a pile of red and blue marbles. On each turn, a player can remove
 
 ## 🖥️ How to Run
 
+```bash
+python red_blue_nim_gui.py
+
 ### ✅ Requirements
 
 - Python 3.x
 - No external libraries required
-
-### ▶️ Run the game
-
-```bash
-python red_blue_nim_gui.py
 
 ---
 
