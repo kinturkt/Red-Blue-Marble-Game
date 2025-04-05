@@ -31,11 +31,6 @@ You start with a pile of red and blue marbles. On each turn, a player can remove
 
 ---
 
-### 🔵 Run the Game
-
-```bash
-python red_blue_nim_gui.py
-
 ### 🎮 Gameplay Instructions
 
 - Choose how many marbles to remove (1 or 2).
@@ -43,3 +38,10 @@ python red_blue_nim_gui.py
 - Click **Make Move**.
 - The computer will respond with its move.
 - The game ends when red or blue marbles are depleted.
+  
+### 🔵 Run the Game
+
+```bash
+python red_blue_nim_gui.py
+
+
