@@ -1,4 +1,4 @@
-# 🎮 Red-Blue Nim Game (Tkinter GUI)
+# 🎮 Red-Blue-Nim - AI Game (Tkinter GUI)
 
 A fun and strategic turn-based game built using Python's Tkinter library, where a human player competes against a computer AI in a simplified Red-Blue Marble Game (Nim variant).
 
